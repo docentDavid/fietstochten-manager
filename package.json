@@ -1,17 +1,17 @@
 {
-  "name": "fietstest",
-  "version": "0.1.0",
+  "name": "fietstochten-manager",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "dev": "next dev --turbopack",
     "build": "next build",
-    "start": "next start",
-    "lint": "next lint"
+    "start": "next start"
   },
   "dependencies": {
     "react": "19.0.0-rc-66855b96-20241106",
     "react-dom": "19.0.0-rc-66855b96-20241106",
-    "next": "15.0.3"
+    "next": "15.0.3",
+    "@supabase/supabase-js": "^2.0.0"
   },
   "devDependencies": {
     "postcss": "^8",
