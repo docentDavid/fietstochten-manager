@@ -2,8 +2,7 @@
 
 **Fietstochten Manager** is een Next.js-applicatie waarmee je fietstochten kunt beheren.  
 Je kunt fietstochten toevoegen, bekijken, bewerken en verwijderen, inclusief het uploaden van afbeeldingen,  
-tekstbeschrijvingen en GPX-tracks. De applicatie maakt gebruik van **Supabase** voor opslag en databasediensten en  
-**Tailwind CSS** voor styling.
+tekstbeschrijvingen en GPX-tracks. De applicatie maakt gebruik van **Supabase** voor opslag en databasediensten en **Tailwind CSS** voor styling.
 
 ---
 
