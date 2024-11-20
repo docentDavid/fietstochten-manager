@@ -5,6 +5,8 @@ Je kunt fietstochten toevoegen, bekijken, bewerken en verwijderen, inclusief het
 tekstbeschrijvingen en GPX-tracks. De applicatie maakt gebruik van **Supabase** voor opslag en databasediensten  
 en **Tailwind CSS** voor styling.
 
+<img src="https://placehold.co/1024x768?text=Placeholder+Image" alt="placeholder" width="800" height="600" style="text-align: center">
+
 ---
 
 ## 🛠️ Gebruikte Technologieën
