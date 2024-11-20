@@ -117,12 +117,12 @@ fietstochten-manager/
 De applicatie maakt gebruik van Tailwind CSS voor het creëren van een responsief en modern ontwerp.  
 Kleuren zijn gebaseerd op de Granite Color Palette:
 
-      | Kleur | Hex       | Voorbeeld                                                              |
-      | ----- | --------- | ---------------------------------------------------------------------- |
-      | Blue  | `#38798A` | ![#38798A](https://via.placeholder.com/15/38798A/38798A.png) `#38798A` |
-      | Teal  | `#70ACCE` | ![#70ACCE](https://via.placeholder.com/15/70ACCE/70ACCE.png) `#70ACCE` |
-      | Light | `#A5DFF1` | ![#A5DFF1](https://via.placeholder.com/15/A5DFF1/A5DFF1.png) `#A5DFF1` |
-      | White | `#FFFFFF` | ![#FFFFFF](https://via.placeholder.com/15/FFFFFF/FFFFFF.png) `#FFFFFF` |
+| Kleur | Hex       | Voorbeeld                                                              |
+| ----- | --------- | ---------------------------------------------------------------------- |
+| Blue  | `#38798A` | ![#38798A](https://via.placeholder.com/15/38798A/38798A.png) `#38798A` |
+| Teal  | `#70ACCE` | ![#70ACCE](https://via.placeholder.com/15/70ACCE/70ACCE.png) `#70ACCE` |
+| Light | `#A5DFF1` | ![#A5DFF1](https://via.placeholder.com/15/A5DFF1/A5DFF1.png) `#A5DFF1` |
+| White | `#FFFFFF` | ![#FFFFFF](https://via.placeholder.com/15/FFFFFF/FFFFFF.png) `#FFFFFF` |
 
 Voor meer informatie, bekijk het Tailwind-configuratiebestand: tailwind.config.js
 
