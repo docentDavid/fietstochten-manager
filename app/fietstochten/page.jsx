@@ -11,7 +11,7 @@ export default async function FietstochtenPage() {
   }
 
   if (!fietstochten || fietstochten.length === 0) {
-    return <p>Geen fietstochten gevonden.</p>;
+    return <p>Er zijn nog geen fietstochten.</p>;
   }
 
   return (
