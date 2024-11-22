@@ -28,20 +28,20 @@ fietstochten-manager/
 ├── app/
 │   ├── fietstochten/
 │   │   ├── edit/
-│   │   │   └── [id]/page.js      # Bewerken van een specifieke fietstocht
-│   │   ├── [id]/page.js          # Detailpagina van een fietstocht
-│   │   ├── upload/page.js        # Pagina voor het toevoegen van een fietstocht
-│   │   └── page.js               # Lijstpagina met alle fietstochten
-│   ├── layout.js                 # Layoutbestand voor de app
-│   └── page.js                   # Homepagina van de applicatie
+│   │   │   └── [id]/page.jsx     # Bewerken van een specifieke fietstocht
+│   │   ├── [id]/page.jsx         # Detailpagina van een fietstocht
+│   │   ├── upload/page.jsx       # Pagina voor het toevoegen van een fietstocht
+│   │   └── page.jsx              # Lijstpagina met alle fietstochten
+│   ├── layout.jsx                # Layoutbestand voor de app
+│   └── page.jsx                  # Homepagina van de applicatie
+│   └── favicon.ico               # Favicon van de applicatie
+│   └── globals.css               # Tailwind CSS-stijlen
 ├── components/
 │   └── Modal.js                  # Herbruikbare modalcomponent voor bevestigingen
 ├── lib/
 │   └── supabase.js               # Supabase-configuratie
 ├── public/
 │   └── (images/static files)     # Map voor statische bestanden
-├── styles/
-│   └── globals.css               # Tailwind CSS-stijlen
 ├── .env.local                    # Omgevingsvariabelen voor Supabase
 ├── tailwind.config.js            # Tailwind-configuratie
 ├── postcss.config.js             # PostCSS-configuratie
@@ -55,11 +55,11 @@ fietstochten-manager/
 
 ### Basisfunctionaliteit:
 
-1. **Fietstocht toevoegen**: Voeg een nieuwe fietstocht toe met een afbeelding, beschrijving en GPX-track.
-2. **Fietstocht bekijken**: Bekijk details van een specifieke fietstocht.
-3. **Fietstocht bewerken**: Pas de titel, beschrijving of bestanden aan van een bestaande fietstocht.
-4. **Fietstocht verwijderen**: Verwijder een fietstocht met een bevestigingsmodal.
-5. **Responsive Design**: Geoptimaliseerd voor mobiel, tablet en desktop dankzij **Tailwind CSS**.
+1. **Fietstocht toevoegen**:     Voeg een nieuwe fietstocht toe met een afbeelding, beschrijving en GPX-track.
+2. **Fietstocht bekijken**:      Bekijk details van een specifieke fietstocht.
+3. **Fietstocht bewerken**:      Pas de titel, beschrijving of bestanden aan van een bestaande fietstocht.
+4. **Fietstocht verwijderen**:   Verwijder een fietstocht met een bevestigingsmodal.
+5. **Responsive Design**:        Geoptimaliseerd voor mobiel, tablet en desktop dankzij **Tailwind CSS**.
 
 ---
 
