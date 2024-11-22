@@ -41,12 +41,13 @@ fietstochten-manager/
 ├── lib/
 │   └── supabase.js               # Supabase-configuratie
 ├── public/
-│   └── (images/static files)     # Map voor statische bestanden
+│   └── (images/static files)     # Map voor statische bestanden (Is nu nog leeg)
 ├── .env.local                    # Omgevingsvariabelen voor Supabase
 ├── tailwind.config.js            # Tailwind-configuratie
 ├── postcss.config.js             # PostCSS-configuratie
 ├── package.json                  # Dependencies en scripts
-└── README.md                     # Documentatie
+├── README.md                     # Documentatie
+└── LICENSE.md                    # License documentatie
 ```
 
 ---
